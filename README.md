@@ -1,2 +1,3 @@
-# FIreSmokeDataset
-fire and smoke object detection, pascal format
+# Fire and smoke dataset
+
+fire and smoke object detection dataset in pascal format
