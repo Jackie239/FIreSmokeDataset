@@ -1,6 +1,6 @@
-﻿# Fire and smoke dataset
+﻿# Fire and smoke datasets
 
-fire and smoke object detection dataset in pascal format
+fire and smoke object detection datasets in pascal format
 
 ## D-Fire
 
@@ -38,4 +38,11 @@ processed one is pascal format
 
 generate pascal format from offical format with tools in './WildFire-Smoke-Dataset-Tensorflow/jupyter/'
 
+## Distribution
+
+|dataset|images|smoke boxes|fire boxes|
+|:---:|:---:|:---:|:---:|
+|D-Fire|11689|11854|14685|
+|flame|2003||8779|
+|wildFire-smoke|14429|12591|23464|
 
