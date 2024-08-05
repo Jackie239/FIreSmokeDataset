@@ -1,4 +1,4 @@
-# Fire and smoke dataset
+﻿# Fire and smoke dataset
 
 fire and smoke object detection dataset in pascal format
 
@@ -26,4 +26,16 @@ bounding boxes are generated from mask
 
 ### generate dataset
 
-generate pascal format from offical format with tools in './D-Fire/jupyter/'
+generate pascal format from offical format with tools in './flame/jupyter/'
+
+## WildFire-Smoke-Dataset-Tensorflow
+
+offical dataset: https://www.kaggle.com/datasets/ahemateja19bec1025/wildfiresmokedataset
+processed dataset: https://pan.baidu.com/s/17zjEjNRNnnfdd0b5ogs9aA?pwd=ctve 
+processed one is pascal format  
+
+### generate dataset
+
+generate pascal format from offical format with tools in './WildFire-Smoke-Dataset-Tensorflow/jupyter/'
+
+
