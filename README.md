@@ -30,9 +30,9 @@ generate pascal format from offical format with tools in './flame/jupyter/'
 
 ## WildFire-Smoke-Dataset-Tensorflow
 
-offical dataset: https://www.kaggle.com/datasets/ahemateja19bec1025/wildfiresmokedataset
-processed dataset: https://pan.baidu.com/s/17zjEjNRNnnfdd0b5ogs9aA?pwd=ctve 
-processed one is pascal format  
+offical dataset: https://www.kaggle.com/datasets/ahemateja19bec1025/wildfiresmokedataset   
+processed dataset: https://pan.baidu.com/s/17zjEjNRNnnfdd0b5ogs9aA?pwd=ctve     
+processed one is pascal format    
 
 ### generate dataset
 
